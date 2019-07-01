@@ -1,0 +1,301 @@
+body
+{
+  background-color: #CCCCFF;
+}
+
+h1
+{
+  text-align: left;
+  font-size: 50px;
+  color: #0099FF;
+  margin-left: 85px;
+}
+
+#newG
+{
+  height: 80px;
+  width: 110px;
+  margin-left: 100px;
+}
+
+#bng
+{
+  background-color: lightgreen;
+  height: 80px;
+  width: 110px;
+  margin-left: 130px;
+  margin-top: 20px;
+}
+#ls
+{
+  float: left;
+  display: inline-block;
+}
+#pocket
+{
+  float: left;
+  border-style:solid;
+  height: 300px;
+  width: 250px;
+  margin-right:150px;
+  margin-left: 150px;
+  margin-top: 80px;
+  background-image:  url("back.jpg");
+  background-repeat: no-repeat;
+  padding: 10px;
+  display: inline-block;
+}
+
+#square
+{
+  border-style: groove;
+  border-color: #669900;
+  background-color: white;
+  float: inherit;
+  position: inherit;
+  display: inline-block;
+  margin-left: 130px;
+}
+
+#A
+{
+  display: inline-block;
+}
+
+#B
+{
+  display: inline-block;
+}
+
+#C
+{
+  display: inline-block;
+}
+
+#D
+{
+  display: inline-block;
+}
+
+
+
+
+#a1
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#a2
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#a3
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#a4
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+}
+
+#b1
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#b2
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#b3
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#b4
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+}
+
+#c1
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#c2
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#c3
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#c4
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+}
+
+#d1
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#d2
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#d3
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+  margin-bottom: 5px;
+}
+
+#d4
+{
+  border-style: solid;
+  height: 150px;
+  width: 120px;
+}
+
+#ba1
+{
+  height: 150px;
+  width: 120px;
+}
+
+#ba2
+{
+  height: 150px;
+  width: 120px;
+}
+
+#ba3
+{
+  height: 150px;
+  width: 120px;
+}
+
+#ba4
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bb1
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bb2
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bb3
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bb4
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bc1
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bc2
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bc3
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bc4
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bd1
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bd2
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bd3
+{
+  height: 150px;
+  width: 120px;
+}
+
+#bd4
+{
+  height: 150px;
+  width: 120px;
+}
