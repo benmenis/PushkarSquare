@@ -7,10 +7,14 @@ Game Instructions:
   Kings in the cornersת Queens in the middle up and the middle botton, and the Jacks in the middle left and middle right 
   (in the middle of the table it dosen't matter) 
   
- K Q Q K
- J * * J
- J * * J
- K Q Q K
+ K J J K
+ 
+ Q * * Q
+ 
+ Q * * Q
+ 
+ K J J K
+ 
  
  when * is any card.
  
