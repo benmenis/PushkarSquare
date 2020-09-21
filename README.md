@@ -1,10 +1,10 @@
 # PushkarSquare
-A card game in JS
+cards game in JS
 
 
 Game Instructions:
  there is 4x4 table and you should fill the frame in that way:
-  Kings in the cornersת Queens in the middle up and the middle botton, and the Jacks in the middle left and middle right 
+  Kings in the corners Queens in the middle up and the middle botton, and the Jacks in the middle left and middle right 
   (in the middle of the table it dosen't matter) 
   
  K J J K
